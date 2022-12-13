@@ -14,7 +14,7 @@
     "consign": "^0.1.6",
     "crypto": "^1.0.1",
     "ejs": "^2.7.4",
-    "express": "^4.15.3",
+    "express": "^4.17.3",
     "express-device": "^0.4.2",
     "express-session": "^1.17.1",
     "express-validator": "^3.2.1",
